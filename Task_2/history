@@ -1,0 +1,4 @@
+nano myfirstbashscript.sh
+chmod u+x myfirstbashscript.sh
+nano myfirstbashscript.sh
+./myfirstbashscript.sh
