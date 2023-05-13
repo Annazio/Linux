@@ -1,0 +1,4 @@
+vim taskHanna.sh
+chmod+x taskHanna.sh
+crontab -l
+crontab -e
