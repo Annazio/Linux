@@ -1,9 +1,0 @@
-1.) vi /tmp/file.txt (Press ESC to enter command mode, type :wq to write and quit the file)
-
-2.) df -h | head -n 3 >> /tmp/file.txt
-
-3.) chmod 664 /tmp/file.txt
-
-4.) chmod 264 /tmp/file.txt
-
-5.) chmod 265 /tmp/file.txt
